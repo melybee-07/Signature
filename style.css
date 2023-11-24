@@ -1,11 +1,10 @@
 img{
-border-radius : 8px;  
-  width : 50%; 
+border-radius: 8px;  
+  width: 50%; 
 }
 div{
-  display : flex;
-    
-  align-item : center;
-    align-content : center;
+  display: flex;  
+  align-item: center;
+    align-content: center;
 }
 
