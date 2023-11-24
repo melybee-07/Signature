@@ -1,9 +1,8 @@
-div {
-  display = flex;
-  align-content = center;
-}
-
 img{
-border-radius = 8px;  
+border-radius : 8px;  
+}
+div{
+  display : flex;
+  align-item : center;
 }
 
