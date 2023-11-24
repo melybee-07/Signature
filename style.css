@@ -1,11 +1,13 @@
 img{
 border-radius: 8px;  
   width: 150px; 
-  margin-right: 20px;
 }
 div{
   display: flex;  
   align-item: center;
    align-content: center;
+}
+div p {
+  margin-left: 20px;
 }
 
