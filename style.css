@@ -4,6 +4,8 @@ border-radius : 8px;
 }
 div{
   display : flex;
+    
   align-item : center;
+    align-content : center;
 }
 
